@@ -1,0 +1,23 @@
+{
+  "title": "National Parks in Croatia",
+  "items": [
+    {
+      "id": "plitvice",
+      "title": "Plitvice Lakes National Park",
+      "summary": "Famous lakes and waterfalls.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "A UNESCO World Heritage site with stunning trails." }
+      ]
+    },
+    {
+      "id": "krka",
+      "title": "Krka National Park",
+      "summary": "Waterfalls and river scenery.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Known for Skradinski Buk waterfall and walking paths." }
+      ]
+    }
+  ]
+}

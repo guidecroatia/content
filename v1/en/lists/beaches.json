@@ -1,0 +1,42 @@
+
+{
+  "title": "Beaches in Croatia",
+  "items": [
+    {
+      "id": "zlatni-rat",
+      "title": "Zlatni Rat",
+      "summary": "Iconic pebble beach with a unique shape.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Located in Bol on the island of Brač, Zlatni Rat changes shape depending on wind and currents." }
+      ]
+    },
+    {
+      "id": "banje",
+      "title": "Banje Beach",
+      "summary": "Popular city beach with views of Dubrovnik Old Town.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "A lively beach close to Dubrovnik’s historic center, perfect for swimming and sunbathing." }
+      ]
+    },
+    {
+      "id": "stiniva",
+      "title": "Stiniva Beach",
+      "summary": "Hidden cove surrounded by cliffs on Vis island.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Stiniva is known for its dramatic entrance and crystal-clear water." }
+      ]
+    },
+    {
+      "id": "saharun",
+      "title": "Sakarun Beach",
+      "summary": "White sand and turquoise water in northern Dalmatia.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "One of the rare sandy beaches in Croatia, ideal for families." }
+      ]
+    }
+  ]
+}

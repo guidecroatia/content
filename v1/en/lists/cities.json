@@ -1,0 +1,41 @@
+{
+  "title": "Cities in Croatia",
+  "items": [
+    {
+      "id": "dubrovnik-city",
+      "title": "Dubrovnik",
+      "summary": "Walled Old Town and Adriatic views.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Walk the city walls, explore the Old Town, and enjoy seaside viewpoints." }
+      ]
+    },
+    {
+      "id": "split-city",
+      "title": "Split",
+      "summary": "Diocletian’s Palace and a lively waterfront.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "A great base for island trips and coastal adventures." }
+      ]
+    },
+    {
+      "id": "zadar",
+      "title": "Zadar",
+      "summary": "Sea Organ, sunsets, and Roman history.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Don’t miss the Sea Organ and Greeting to the Sun installations." }
+      ]
+    },
+    {
+      "id": "zagreb",
+      "title": "Zagreb",
+      "summary": "Cafés, museums, and a relaxed capital vibe.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Explore Upper Town, local markets, and the café culture." }
+      ]
+    }
+  ]
+}

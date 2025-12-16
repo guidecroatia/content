@@ -1,0 +1,98 @@
+{
+  "title": "Experiences in Croatia",
+  "items": [
+    {
+      "id": "island-hopping",
+      "title": "Island Hopping",
+      "summary": "Explore Croatia’s islands by ferry or boat.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Popular routes include Split → Hvar → Vis → Korčula." }
+      ]
+    },
+    {
+      "id": "national-parks",
+      "title": "National Parks",
+      "summary": "Lakes, waterfalls, and hiking trails.",
+      "heroImageName": "dubrovnik",
+      "links": [
+          { "title": "National Parks", "type": "list", "targetId": "national_parks" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Croatia has several national parks with unique landscapes." }
+      ]
+    },
+    {
+      "id": "beaches",
+      "title": "Beaches",
+      "summary": "Pebble beaches, hidden coves, and crystal-clear waters.",
+      "heroImageName": "split",
+      "links": [
+        { "title": "Beaches", "type": "list", "targetId": "beaches" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Croatia offers thousands of beaches, from lively city beaches to remote island coves." }
+      ]
+    },
+    {
+      "id": "cities",
+      "title": "Cities",
+      "summary": "Historic towns, cafés, and coastal life.",
+      "heroImageName": "split",
+      "links": [
+        { "title": "Cities", "type": "list", "targetId": "cities" }
+      ],
+      "body": [
+        { "kind": "text", "value": "From coastal gems to the capital, Croatia’s cities blend history and modern life." }
+      ]
+    },
+    {
+      "id": "food-wine",
+      "title": "Food & Wine",
+      "summary": "Seafood, local dishes, and regional wines.",
+      "heroImageName": "split",
+      "links": [
+        { "title": "Food & Wine", "type": "list", "targetId": "food_wine" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Taste your way across regions: Dalmatia, Istria, Slavonia, and beyond." }
+      ]
+    },
+    {
+      "id": "islands",
+      "title": "Islands",
+      "summary": "Island hopping, coves, and coastal scenery.",
+      "heroImageName": "split",
+      "links": [
+        { "title": "Islands", "type": "list", "targetId": "islands" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Croatia’s islands range from lively hotspots to quiet escapes." }
+      ]
+    },
+    {
+      "id": "hiking",
+      "title": "Hiking",
+      "summary": "Trails, viewpoints, waterfalls, and mountains.",
+      "heroImageName": "dubrovnik",
+      "links": [
+        { "title": "Hiking", "type": "list", "targetId": "hiking" }
+      ],
+      "body": [
+        { "kind": "text", "value": "From coastal mountains to national parks, there are hikes for every level." }
+      ]
+    },
+    {
+      "id": "culture-history",
+      "title": "Culture & History",
+      "summary": "Roman sites, medieval towns, and local traditions.",
+      "heroImageName": "dubrovnik",
+      "links": [
+        { "title": "Culture & History", "type": "list", "targetId": "culture_history" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Croatia’s heritage spans Roman ruins, Venetian influence, and medieval old towns." }
+      ]
+    }
+  ]
+}

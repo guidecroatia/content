@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "dubrovnik",
+      "title": "Dubrovnik",
+      "summary": "A historic coastal city with medieval walls.",
+      "heroImageName": "dubrovnik",
+      "links": [
+        { "title": "Att göra", "type": "list", "targetId": "todo_dubrovnik" },
+        { "title": "Att se",  "type": "list", "targetId": "tosee_dubrovnik" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Dubrovnik is famous for its Old Town and city walls." },
+        { "kind": "text", "value": "Best time to visit is spring and early autumn." }
+      ]
+    },
+    {
+      "id": "split",
+      "title": "Split",
+      "summary": "A vibrant city built around Diocletian’s Palace.",
+      "heroImageName": "split",
+      "links": [
+        { "title": "Att göra", "type": "list", "targetId": "todo_split" },
+        { "title": "Att se",  "type": "list", "targetId": "tosee_split" }
+      ],
+      "body": [
+        { "kind": "text", "value": "Split mixes ancient history with modern life by the sea." },
+        { "kind": "text", "value": "Don’t miss Diocletian’s Palace and the waterfront promenade." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Food & Wine in Croatia",
+  "items": [
+    {
+      "id": "dalmatian-seafood",
+      "title": "Dalmatian Seafood",
+      "summary": "Grilled fish, octopus salad, and coastal flavors.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Try grilled fish with olive oil, Swiss chard, and local white wine." }
+      ]
+    },
+    {
+      "id": "pasticada",
+      "title": "Pašticada",
+      "summary": "Traditional slow-cooked beef dish from Dalmatia.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Often served with gnocchi and a rich, slightly sweet sauce." }
+      ]
+    },
+    {
+      "id": "istrian-truffles",
+      "title": "Istrian Truffles",
+      "summary": "A gourmet highlight, especially in autumn.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Istria is known for truffles—try them with pasta or eggs." }
+      ]
+    },
+    {
+      "id": "croatian-wines",
+      "title": "Croatian Wines",
+      "summary": "From crisp whites to bold reds, with local grape varieties.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Look for Plavac Mali (red) and Pošip (white) as a starting point." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+
+{
+  "title": "Islands in Croatia",
+  "items": [
+    {
+      "id": "hvar",
+      "title": "Hvar",
+      "summary": "Sun, nightlife, and lavender fields.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "A popular island with beaches, towns, and scenic drives." }
+      ]
+    },
+    {
+      "id": "vis",
+      "title": "Vis",
+      "summary": "Remote feel, clear water, and hidden coves.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Known for calm island life and boat trips to nearby caves." }
+      ]
+    },
+    {
+      "id": "korcula",
+      "title": "Korčula",
+      "summary": "Charming old town and vineyards.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Often called a mini-Dubrovnik, great for relaxed exploration." }
+      ]
+    },
+    {
+      "id": "brac",
+      "title": "Brač",
+      "summary": "Home of Zlatni Rat and great viewpoints.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "A classic island for beach days and scenic hikes." }
+      ]
+    }
+  ]
+}

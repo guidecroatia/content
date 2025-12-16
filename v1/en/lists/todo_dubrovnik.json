@@ -1,0 +1,14 @@
+{
+  "title": "Todo in Dubrovnik",
+  "items": [
+    {
+      "id": "walls",
+      "title": "Walk the City Walls",
+      "summary": "A classic experience with great views.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Go early to avoid crowds and heat." }
+      ]
+    }
+  ]
+}

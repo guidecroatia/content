@@ -1,0 +1,41 @@
+{
+  "title": "Culture & History in Croatia",
+  "items": [
+    {
+      "id": "diocletian",
+      "title": "Diocletian’s Palace (Split)",
+      "summary": "A living Roman palace at the heart of Split.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Explore cellars, squares, and narrow streets inside the palace walls." }
+      ]
+    },
+    {
+      "id": "dubrovnik-oldtown",
+      "title": "Dubrovnik Old Town",
+      "summary": "Medieval streets, walls, and UNESCO heritage.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Walk the walls and visit small museums and historic sites." }
+      ]
+    },
+    {
+      "id": "pula-arena",
+      "title": "Pula Arena",
+      "summary": "One of the best-preserved Roman amphitheaters.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "A must-see if you visit Istria—often hosts events and concerts." }
+      ]
+    },
+    {
+      "id": "zagreb-museums",
+      "title": "Museums & Cafés (Zagreb)",
+      "summary": "Art, quirky museums, and local café culture.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Zagreb is great for a city-break vibe beyond the coast." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Hiking in Croatia",
+  "items": [
+    {
+      "id": "paklenica-hike",
+      "title": "Paklenica Trails",
+      "summary": "Canyons, cliffs, and mountain views.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Great for both casual hikes and challenging routes." }
+      ]
+    },
+    {
+      "id": "biokovo",
+      "title": "Biokovo Mountain",
+      "summary": "Dramatic peaks above the Dalmatian coast.",
+      "heroImageName": "split",
+      "body": [
+        { "kind": "text", "value": "Expect stunning viewpoints—start early for cooler temperatures." }
+      ]
+    },
+    {
+      "id": "plitvice-trails",
+      "title": "Plitvice Walking Routes",
+      "summary": "Wooden walkways, lakes, and waterfalls.",
+      "heroImageName": "dubrovnik",
+      "body": [
+        { "kind": "text", "value": "Choose a route based on time—short loops or full-day walks." }
+      ]
+    }
+  ]
+}

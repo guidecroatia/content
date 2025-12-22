@@ -7,7 +7,26 @@
       "summary": "Famous lakes and waterfalls.",
       "heroImageName": "dubrovnik",
       "body": [
-        { "kind": "text", "value": "A UNESCO World Heritage site with stunning trails." }
+        {
+          "kind": "text",
+          "value": "Plitvice Lakes National Park is Croatia’s oldest and most famous national park, and a UNESCO World Heritage site."
+        },
+        {
+          "kind": "text",
+          "value": "The park is known for its series of turquoise lakes connected by spectacular waterfalls, surrounded by dense forests and wooden walkways."
+        },
+        {
+          "kind": "text",
+          "value": "Visitors can explore the park via well-maintained trails and boardwalks that allow close views of the lakes without disturbing the natural environment."
+        },
+        {
+          "kind": "text",
+          "value": "Plitvice is beautiful year-round: lush and green in spring and summer, colorful in autumn, and frozen into a winter wonderland during colder months."
+        },
+        {
+          "kind": "text",
+          "value": "To avoid crowds, it is recommended to arrive early in the morning or visit during the shoulder seasons in spring or autumn."
+        }
       ]
     },
     {
